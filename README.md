@@ -12,7 +12,7 @@
   * [Imagens](#imagens)
 
 # Apresentação
-Este projeto foi criado para concluir o módulo III do Bootcamp TQI Fullsatack developer, o objetivo do projeto era criar um jogo da memória, eu escolhi fazer com a temática do anime Pokemon. 
+Este projeto foi criado para concluir o módulo III do Bootcamp TQI Fullsatack developer, o objetivo do projeto era criar um jogo da memória, eu escolhi fazer com a temática do anime Pokemon. O modelo final pode ser acesso em <a href="https://queeniebloom.github.io/JOGO-DA-MEMORIA-POKEMON/">Jogo da Memória Pokemon</a>
 
 # Techs: 
 - HTML , CSS e JAVASCRIPT
